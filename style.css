@@ -19,3 +19,8 @@ body {
     width: 420px;
     background: green;
 }
+
+.termsAndCondition {
+    display: flex;
+    justify-content: space-between;
+}
